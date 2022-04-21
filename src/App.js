@@ -1,7 +1,9 @@
 // import logo from './logo.svg';
+
 import React from "react";
 import data from "./data.json";
-import Products from "./components/Products";
+import Products from "./components/Products"
+//feature 1
 
 class App extends React.Component {
   constructor() {
